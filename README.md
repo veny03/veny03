@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 ## About Me
-I’m a passionate beginner in the world of data analysis, and I’m excited to share my journey and projects as I grow my skills. Currently, I’m exploring tools like **Excel** and **SQL**, with the aim of diving deeper into data-driven decision-making and analytics.
+I’m a passionate beginner in the world of data analysis, and I’m excited to share my journey and projects as I grow my skills. Currently, I’m exploring tools like **Excel**, **SQL** and **Power BI**, with the aim of diving deeper into data-driven decision-making and analytics.
 
 ## What You’ll Find Here 🚀
 In this repository, you can follow my progress and see:
